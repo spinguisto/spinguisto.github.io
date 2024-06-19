@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://spinguisto.github.io/sitemap
+Sitemap: https://spinguisto.github.io/app/sitemap
+Sitemap: https://spinguisto.github.io/assets/sitemap
+Sitemap: https://spinguisto.github.io/css/sitemap
+Sitemap: https://spinguisto.github.io/includes/sitemap
+Sitemap: https://spinguisto.github.io/item/sitemap
+Sitemap: https://spinguisto.github.io/src/sitemap
